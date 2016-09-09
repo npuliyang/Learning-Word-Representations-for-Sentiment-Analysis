@@ -661,13 +661,6 @@ def stop_thread(thread):
 
 
 if __name__ == "__main__":
-	# a={'a':1,'b':2,'c':3,'h':5,'l':6,'k':7,'o':8,'p':9}
-	# b=chunkize_serial(a,5)
-	# for i,bi in enumerate(b):
-	# 	print i,bi
-
-
-
 	# build=Build_Dict()
 	# # build.read_corpus()
 	# dicts,dict_index=build.load_dict()
