@@ -1,2 +1,2 @@
 # SFGV
-word representation with prior information
+word representation for sentiment analysis
